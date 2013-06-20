@@ -13,6 +13,7 @@
     NSStatusItem *statusItem;
     NSImage *statusImage;
     NSImage *statusHighlightImage;
+    NSInteger count;
 }
 
 - (IBAction)doSomething:(id)sender;
